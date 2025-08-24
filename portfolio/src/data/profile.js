@@ -5,13 +5,13 @@ export const PROFILE = {
   intro:
     "I design and build fast, accessible web experiences with React, TypeScript, and a keen eye for detail.",
   location: "Lagos, Nigeria",
-  avatar: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=400&auto=format&fit=crop&q=60",
+  avatar: "Omajuwa.png",
   resumeUrl: "#", // link a real PDF
   socials: {
-    github: "https://github.com/yourname",
-    linkedin: "https://www.linkedin.com/in/yourname/",
+    github: "https://github.com/maxndrel",
+    linkedin: "https://www.linkedin.com/in/omajuwa-emmanuel-79517b327/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2FVv1j2UNQT%2BF7PpP6hqROg%3D%3D",
     twitter: "https://twitter.com/yourname",
-    email: "mailto:hello@yourdomain.com",
+    email: "omajuwaemmanuel003@gmail.com",
   },
   skills: [
     "React",
