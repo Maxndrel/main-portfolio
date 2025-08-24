@@ -5,7 +5,7 @@ export const PROFILE = {
   intro:
     "I design and build fast, accessible web experiences with React, TypeScript, and a keen eye for detail.",
   location: "Lagos, Nigeria",
-  avatar: "Omajuwa.png",
+  avatar: "/omajuwa.png",
   resumeUrl: "#", // link a real PDF
   socials: {
     github: "https://github.com/maxndrel",
